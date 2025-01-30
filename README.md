@@ -26,7 +26,7 @@ Wickedly sweet custom bakes.
 
 Obessive auto enthusiast videos.
 
-:link: [garagetrouble.com](https://www.youtube.com/channel/UCwpIFrs7gJGuSVMED5aHByw)
+:link: [garagetrouble.com](https://www.youtube.com/@garagetrouble)
 
 ### Scaring with Sammy
 
