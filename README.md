@@ -67,7 +67,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Worked to extend coverage of Bloom app automated UI testing.
   - Created an automated method to test new API changes against older versions of the Bloom app.
   - Built new UI screens and flows for the Bloom Learn & Earn feature.
-  <br />
 </details>
 
 <details>
@@ -76,7 +75,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Using the new Fidelity OnSite Hub iOS app, Fidelity employees can book desks and conference rooms to fit their hybrid work schedules, find out when and where their colleagues are stationed, and coordinate in-person working sessions with their teams. All driven by Microsoft Teams, Exchange, and Graph data.
 
   - Helped get the OnSite Hub ready to ship.
-  <br />
 </details>
 
 <details>
@@ -86,7 +84,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
 
   - Worked with PrismHR to build a cross platform mobile app around their Employee Portal.
   - Created white labeled versions of the same app for Prism's customers (other HR companies).
-  <br />
 </details>
 
 <details>
@@ -95,7 +92,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   LandrumHR offers integrated and customizable services that include payroll, employee benefits, risk management, workers' compensation, compliance, consulting and training solutions.
 
   - Integrated LandrumHR's various HR services into mobile apps for iOS and Android.
-  <br />
 </details>
 
 <details>
@@ -104,7 +100,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Paychex is a leading provider of integrated human capital management solutions for payroll, benefits, human resources, and insurance services.
 
   - Built custom branded Prism Employee Portal apps for iOS and Android.
-  <br />
 </details>
 
 <details>
@@ -124,7 +119,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Streamlined their associated iPad apps for easier future development.
   - Extended the PCC training environment to support AU vet training.
   - Helped audit and secure the PCC application code.
-  <br />
 </details>
 
 <details>
@@ -133,7 +127,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Chewy combines the personalized service of your neighborhood pet store with the convenience and speed of e-commerce.
 
   - Helped convert the Chewy web app design to be mobile-first.
-  <br />
 </details>
 
 <details>
@@ -145,7 +138,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Set up auto-deployments.
   - Automated testing.
   - Built a custom CMS on top of GitHub’s wiki.
-  <br />
 </details>
 
 <details>
@@ -155,7 +147,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
 
   - Designed and developed a cross platform mobile app for collecting and managing inspection data with a dynamic inspection form UX.
   - Built database, reporting, and map visualization tools.
-  <br />
 </details>
 
 <details>
@@ -166,7 +157,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Build a cross platform mobile app featuring an animated, interactive avatar that helped patients track symptoms for their doctors.
   - Developed web based data collection for health patients.
   - Helped connect patients with peers through a Second Life portal.
-  <br />
 </details>
 
 <details>
@@ -175,7 +165,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Sefas is a global leader in omni channel customer communications management with a technology suite that provides an end-to-end solution for managing customer communications from composition to processing, distribution, archival, and retrieval.
 
   - Developed composable, configurable Vue.js widgets for customer onboarding and job tracking apps.
-  <br />
 </details>
 
 <details>
@@ -186,7 +175,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Ported their C++ network traffic tool multiPerf, to run on iOS.
   - Developed a way for OctoScope's iOS app to communicate with control servers directly via Ethernet.
   - Set up ad hoc distribution to manage client access of the production releases.
-  <br />
 </details>
 
 <details>
@@ -195,7 +183,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Iron Mountain is a global leader in storage and information management services and trusted by more than 225,000 organizations around the world, including 95% of the Fortune 1000.
 
   - Built customizable, performant table widgets for Iron Mountain's internal platform.
-  <br />
 </details>
 
 <details>
@@ -204,7 +191,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   TorchMetrics provides specific feedback with action steps to take your presentation skills to the next level.
 
   - Built a customer facing web app for providing feedback on presentations.
-  <br />
 </details>
 
 <details>
@@ -213,7 +199,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Greater Boston’s preferred private real estate lender, Crowd Lending, Inc. delivers a fast, flexible, and reliable lending opportunity for builders, developers, and real estate investors.
 
   - Designed and built a marketing website for real estate lenders.
-  <br />
 </details>
 
 <details>
@@ -222,7 +207,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   The Baupost Group is a Boston-based investment manager.
 
   - Led the front end design, architecture, development, and testing of a new internal reporting portal.
-  <br />
 </details>
 
 <details>
@@ -235,7 +219,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Built various front end features for tracking cloud server health.
   - Integrated third-party APIs and services to enhance the platform's functionality and extend its capabilities.
   - Worked closely with backend developers to design and implement RESTful APIs for seamless data exchange between the front-end and backend systems.
-  <br />
 </details>
 
 <details>
@@ -246,7 +229,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Built white labeled cross platform mobile apps (iOS + Android) for renting cars and golf carts.
   - Built supporting mid-tier services to manages rental vehicle reservations.
   - Designed and built a QR code based system for on-the-fly rentals.
-  <br />
 </details>
 
 <details>
@@ -255,7 +237,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Mirion is a global leader in radiation safety, science and medicine.
 
   - Converted Mirion's nuclear measurement and detection hardware management app from Flash to HTML + vanilla JavaScript.
-  <br />
 </details>
 
 <details>
@@ -264,7 +245,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   SmartBear provides a portfolio of trusted tools that give software development teams around the world visibility into end-to-end quality through test management and automation, API development lifecycle, and application stability, ensuring each software release is better than the last.
 
   - Built a prototype cross platform (Android/iOS) custom browser for automated testing of mobile web apps.
-  <br />
 </details>
 
 <details>
@@ -273,7 +253,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   UWeave was a mobile news startup.
 
   - Helped build a cross platform mobile news app with an innovative UX.
-  <br />
 </details>
 
 <details>
@@ -282,14 +261,12 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   DentaQuest manages dental and vision benefits for more than 33 million Americans through a nationwide network of providers in all 50 states.
 
   - Developed an internal patient record tracking system to be installed in dental offices.
-  <br />
 </details>
 
 <details>
   <summary>Principle Mobile Developer @ Odysee, GoalMate, and Flash Tag, 2015</summary><br />
   
   - Built initial MVP versions of a few mobile social networking apps.
-  <br />
 </details>
 
 <details>
@@ -300,7 +277,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Integrated Twitter’s advertising API into the main Localytics app.
   - Consulted on the design of their payment processing integrations.
   - Refactored their test suite for speed.
-  <br />
 </details>
 
 <details>
@@ -309,7 +285,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Conjur automates machine identity provisioning, authorization of privileged access, service account control, and machine-to-machine connectivity.
 
   - Helped with AWS config training and setup.
-  <br />
 </details>
 
 <details>
@@ -320,7 +295,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Worked on a team of 4 to design and build the Cumberland Farms’ SmartPay server platform (6 server, high availability).
   - Helped develop high-performance iPhone, Android, and mobile web apps.
   - Helped develop scalable cloud-based services that perform ACH, PayPal, and coupon management.
-  <br />
 </details>
 
 <details>
@@ -330,7 +304,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
 
   - Built the Mobile Retail SDK for retailers to use when building their own PayPal enabled consumer mobile apps in both iOS and Android, leveraging PayPal services to manage payments, users, locations, products, and shopping sessions.
   - Wrote the mobile app side of a Bluetooth Low Energy integration with cash registers for in-store digital payments.
-  <br />
 </details>
 
 <details>
@@ -341,7 +314,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   - Wrote statistical significance algorithms in Python for brand health tracking data.
   - Fixed data and performance issues.
   - Helped re-architect the upcoming version of their web app.
-  <br />
 </details>
 
 <details>
@@ -350,7 +322,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
   Verizon is the largest wireless carrier in the United States.
 
   - Built various mobile proof-of-concept apps to show the possibilities of mobile advertising on the Verizon network.
-  <br />
 </details>
 
 <details>
@@ -360,7 +331,6 @@ For over a decade I consulted and contracted on dozens of projects with Maris Co
 
   - Built a health care opt-out web app to meet state requirements.
   - Solved their tricky frontend UI performance problems for their main Rails app.
-  <br />
 </details>
 
 ### :spiral_calendar: 2013
