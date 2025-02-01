@@ -1,6 +1,6 @@
 {
   "editor.default_syntax" : "markdown",
-  "workspace.art_style" : 1,
-  "workspace.color" : 9,
-  "workspace.name" : "readme.md"
+  "workspace.art_style" : 0,
+  "workspace.color" : 12,
+  "workspace.name" : "GitHub Profile"
 }
