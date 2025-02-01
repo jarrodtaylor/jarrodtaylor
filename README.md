@@ -325,7 +325,8 @@ In addition to the consulting gigs, I helped out with sales and worked on intern
 <details>
   <summary>Senior Software Engineer @ Upland Localytics, 2015</summary><br />
 
-  Localytics builds and runs mobile app marketing and analytics software to understand user behavior.
+  Localytics builds and runs mobile app marketing and analytics software to understand user
+  behavior.
 
   - Integrated Twitter’s advertising API into the main Localytics app.
   - Consulted on the design of their payment processing integrations.
@@ -429,7 +430,8 @@ As a freelancer I helped local small businesses with web + mobile design and dev
 #### Research & Development Engineer @ Front Porch, Inc.
 
 Front Porch was running a hotspot and ISP advertising platform for showing people ads when joining
-wifi networks (chances are you’ve seen this at a hotel). The growth of 3G necessitated a new strategy.
+wifi networks (chances are you’ve seen this at a hotel). The growth of 3G necessitated a new
+strategy.
 
 - Prototyped innovative mobile web user experiences for future products to compete with 3G.
 
@@ -458,6 +460,9 @@ products in stores, and consolidating digital coupons for quick scanning during 
 - Designed and built marketing websites for small and medium businesses around Atlanta.
 
 ### ☁️ ATS Tag Clouds
+
+> [!NOTE]
+> These really start adding up after so many projects.
 
 #### Engineering
 
