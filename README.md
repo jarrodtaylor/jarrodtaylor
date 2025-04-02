@@ -51,7 +51,7 @@ Bite-sized scare acting lessons.
 -------------------------
 I’ve been lucky to work with some very talented people over the years at all kinds of agencies,
 startups, local shops, and big tech companies. We’ve built some great digital products and services
-that thousands of business and millions of consumers all around the world use every day.
+that thousands of businesses and millions of consumers all around the world use every day.
 
 ### 🗓️ 2013-2024
 
